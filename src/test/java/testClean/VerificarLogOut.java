@@ -28,6 +28,6 @@ public class VerificarLogOut extends BaseTodoLy {
         Thread.sleep(2000);
         
         Assertions.assertTrue(paginaInicio.loginImage.isControlDisplayed(),
-                "ERROR no se pudo hacer el login");
+                "ERROR no se pudo hacer el logout");
 	}
 }

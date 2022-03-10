@@ -21,7 +21,7 @@ public class VerificarLoginConSignUp extends BaseTodoLy {
 		paginaInicio.signUpFreeImage.click();
 		
 		signUpModal.fullNameTextBox.setText("Andre Machicao");
-		signUpModal.emailTextBox.setText("PruebaAndre4@gmail.com");
+		signUpModal.emailTextBox.setText("PruebaAndre6@gmail.com");
 		signUpModal.passwordTextBox.setText("12345");
 		signUpModal.terminosCheckBox.click();
 		
